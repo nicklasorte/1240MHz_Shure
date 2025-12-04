@@ -8,9 +8,7 @@ folder1='C:\Users\nlasorte\OneDrive - National Telecommunications and Informatio
 cd(folder1)
 addpath(folder1)
 pause(0.1)
-addpath('C:\Users\nlasorte\OneDrive - National Telecommunications and Information Administration\MATLAB2024\GMF_functions')
 addpath('C:\Users\nlasorte\OneDrive - National Telecommunications and Information Administration\MATLAB2024\Basic_Functions')
-addpath('C:\Users\nlasorte\OneDrive - National Telecommunications and Information Administration\MATLAB2024\Census_Functions')
 addpath('C:\Users\nlasorte\OneDrive - National Telecommunications and Information Administration\MATLAB2024\General_Terrestrial_Pathloss') 
 pause(0.1)
 
